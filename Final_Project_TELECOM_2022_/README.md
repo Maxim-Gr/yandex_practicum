@@ -12,10 +12,10 @@
 ### ИТОГИ:  
 Обучена модель CatBoostClassifier, предсказывающая отток клиентов. Получены достаточно высокие значения целевых метрик:
 
-AUC-ROC = 0,9271,
-Accuracy = 0,8785.
+AUC-ROC = 0,9277,
+Accuracy = 0,8799.
 
 Модель LogisticRegression показала качество хуже, чем CatBoostClassifier:
 
-AUC-ROC = 0,8513,
+AUC-ROC = 0,8512,
 Accuracy = 0,8067.
